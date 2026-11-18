@@ -1,0 +1,1 @@
+Esta tarea consiste en un simulador interactivo para gestionar componentes de Golf gti donde se pueden agregar porductos, ponerles un precio y tambien se pueden eliminar productos. Todo a traves de botones interactivos
